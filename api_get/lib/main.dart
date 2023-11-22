@@ -31,7 +31,7 @@ class MessengerScreen extends StatelessWidget {
           },
         ),
         title: Text(
-          '채팅',
+          '채팅..',
           style: TextStyle(fontWeight: FontWeight.bold, color: Colors.black),
         ),
         actions: <Widget>[
